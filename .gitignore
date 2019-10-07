@@ -1,0 +1,5 @@
+nbproject/private/
+build/
+dist/
+.DS_STORE
+/src/SpinView_QT_log
